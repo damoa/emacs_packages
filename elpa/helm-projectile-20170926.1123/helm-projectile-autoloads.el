@@ -1,10 +1,10 @@
 ;;; helm-projectile-autoloads.el --- automatically extracted autoloads
 ;;
 ;;; Code:
-(add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
+(add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "helm-projectile" "helm-projectile.el" (22833
-;;;;;;  48524 851711 941000))
+;;;### (autoloads nil "helm-projectile" "helm-projectile.el" (23091
+;;;;;;  42435 755417 206000))
 ;;; Generated autoloads from helm-projectile.el
 
 (defvar helm-projectile-fuzzy-match t "\
