@@ -1,0 +1,6 @@
+# key: ftr
+# name: feature
+# --
+feature '$1', :js do
+  $0
+end

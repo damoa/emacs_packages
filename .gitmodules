@@ -1,0 +1,48 @@
+[submodule "diff-hl"]
+	path = diff-hl
+	url = ./diff-hl
+[submodule "dtrt-indent"]
+	path = dtrt-indent
+	url = ./dtrt-indent
+[submodule "emacs-async"]
+	path = emacs-async
+	url = ./emacs-async
+[submodule "emacs-helm-ag"]
+	path = emacs-helm-ag
+	url = ./emacs-helm-ag
+[submodule "evil-leader"]
+	path = evil-leader
+	url = ./evil-leader
+[submodule "evil-matchit"]
+	path = evil-matchit
+	url = ./evil-matchit
+[submodule "evil-nerd-commenter"]
+	path = evil-nerd-commenter
+	url = ./evil-nerd-commenter
+[submodule "evil-surround"]
+	path = evil-surround
+	url = ./evil-surround
+[submodule "evil"]
+	path = evil
+	url = ./evil
+[submodule "flycheck"]
+	path = flycheck
+	url = ./flycheck
+[submodule "helm-projectile"]
+	path = helm-projectile
+	url = ./helm-projectile
+[submodule "helm"]
+	path = helm
+	url = ./helm
+[submodule "neotree"]
+	path = neotree
+	url = ./neotree
+[submodule "rainbow-delimiters"]
+	path = rainbow-delimiters
+	url = ./rainbow-delimiters
+[submodule "use-package"]
+	path = use-package
+	url = ./use-package
+[submodule "yasnippet"]
+	path = yasnippet
+	url = ./yasnippet

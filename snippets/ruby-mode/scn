@@ -1,0 +1,6 @@
+# key: scn
+# name: scenario
+# --
+scenario '$1' do
+  $0
+end
