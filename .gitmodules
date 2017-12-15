@@ -1,48 +1,48 @@
 [submodule "diff-hl"]
 	path = diff-hl
-	url = ./diff-hl
+	url = git@github.com:dgutov/diff-hl.git
 [submodule "dtrt-indent"]
 	path = dtrt-indent
-	url = ./dtrt-indent
+	url = git@github.com:jscheid/dtrt-indent.git
 [submodule "emacs-async"]
 	path = emacs-async
-	url = ./emacs-async
+	url = git@github.com:jwiegley/emacs-async.git
 [submodule "emacs-helm-ag"]
 	path = emacs-helm-ag
-	url = ./emacs-helm-ag
+	url = git@github.com:syohex/emacs-helm-ag.git
 [submodule "evil-leader"]
 	path = evil-leader
-	url = ./evil-leader
+	url = git@github.com:cofi/evil-leader.git
 [submodule "evil-matchit"]
 	path = evil-matchit
-	url = ./evil-matchit
+	url = git@github.com:redguardtoo/evil-matchit.git
 [submodule "evil-nerd-commenter"]
 	path = evil-nerd-commenter
-	url = ./evil-nerd-commenter
+	url = git@github.com:redguardtoo/evil-nerd-commenter.git
 [submodule "evil-surround"]
 	path = evil-surround
-	url = ./evil-surround
+	url = git@github.com:emacs-evil/evil-surround.git
 [submodule "evil"]
 	path = evil
-	url = ./evil
+	url = git@github.com:emacs-evil/evil.git
 [submodule "flycheck"]
 	path = flycheck
-	url = ./flycheck
+	url = git@github.com:flycheck/flycheck.git
 [submodule "helm-projectile"]
 	path = helm-projectile
-	url = ./helm-projectile
+	url = git@github.com:bbatsov/helm-projectile.git
 [submodule "helm"]
 	path = helm
-	url = ./helm
+	url = git@github.com:emacs-helm/helm.git
 [submodule "neotree"]
 	path = neotree
-	url = ./neotree
+	url = git@github.com:jaypei/emacs-neotree.git
 [submodule "rainbow-delimiters"]
 	path = rainbow-delimiters
-	url = ./rainbow-delimiters
+	url = git@github.com:Fanael/rainbow-delimiters.git
 [submodule "use-package"]
 	path = use-package
-	url = ./use-package
+	url = git@github.com:jwiegley/use-package.git
 [submodule "yasnippet"]
 	path = yasnippet
-	url = ./yasnippet
+	url = git@github.com:joaotavora/yasnippet.git
