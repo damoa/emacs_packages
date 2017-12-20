@@ -1,4 +1,6 @@
-((("showFeedbackBorder" .
+((("itemBubbleIndex" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("showFeedbackBorder" .
    [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
   ("correctColor" .
    [2 0 0 0 0 0 0 0 0 0 0 0])
@@ -7,7 +9,7 @@
   ("paragraphText" .
    [2 0 0 0 0 0 0 0 0 0 0 0 0])
   ("solutionViewColor" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+   [0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0])
   ("repositoryPosition" .
    [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
   ("onScrolling" .
@@ -97,7 +99,7 @@
   ("listIdAsNumber" .
    [0 0 0 0 0 0 0 0 2 0 0 0 0 0])
   ("indexOf" .
-   [4 0 0 0 0 0 0])
+   [5 0 0 0 0 0 0])
   ("solutionTeachingLists" .
    [1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
   ("sortableListTexts" .
@@ -115,7 +117,7 @@
   ("$scope" .
    [11 0 0 0 0 0])
   ("index" .
-   [31 0 0 0 0])
+   [32 0 0 0 0])
   ("done" .
    [1 0 0 0])
   ("doi" .
@@ -133,7 +135,7 @@
   ("AccountSubscriptionCycle" .
    [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
   ("state" .
-   [22 0 0 0 0])
+   [25 0 0 0 0])
   ("context" .
    [3 0 0 0 0 0 0])
   ("let" .
@@ -311,7 +313,7 @@
   ("nativePlayer" .
    [1 0 0 0 0 0 0 0 0 0 0 0])
   ("if" .
-   [18 0])
+   [19 0])
   ("trigger" .
    [2 0 0 0 0 0 0])
   ("rev" .
@@ -357,7 +359,7 @@
   ("isSeoRequest" .
    [0 0 0 0 0 0 1 0 0 0 0 0])
   ("else" .
-   [14 0 0 0])
+   [15 0 0 0])
   ("Insert" .
    [1 0 0 0 0 0])
   ("records" .
@@ -489,7 +491,7 @@
   ("Component" .
    [3 0 0 0 0 0 0 0 0])
   ("const" .
-   [49 0 0 0 0])
+   [50 0 0 0 0])
   ("modifiedArray" .
    [0 0 0 0 1 0 0 0 0 0 0 0 0])
   ("reactElementToJSXString" .
@@ -579,7 +581,7 @@
   ("activeItemId" .
    [0 0 0 0 0 0 0 0 0 0 1 0])
   ("itemId" .
-   [5 0 0 0 0 0])
+   [6 0 0 0 0 0])
   ("sortablesClone" .
    [1 0 0 0 0 1 0 0 0 1 1 1 0 0])
   ("exchangeIndex" .
@@ -595,7 +597,7 @@
   ("countIndex" .
    [1 0 0 0 0 0 0 0 0 0])
   ("slice" .
-   [1 0 0 0 0])
+   [2 0 0 0 0])
   ("originalCorrectOrder" .
    [4 0 0 0 0 1 2 1 4 1 0 1 0 1 1 0 0 0 0 0])
   ("usersOrder" .
@@ -691,7 +693,7 @@
   ("markerClasses" .
    [0 0 0 0 0 0 1 0 0 0 0 0 0])
   ("markerColor" .
-   [7 0 0 0 0 0 0 0 0 0 0])
+   [7 0 0 0 0 0 1 0 0 0 0])
   ("active" .
    [4 0 0 0 0 0])
   ("markItems" .
@@ -719,4 +721,10 @@
   ("onMarkItemClick" .
    [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
   ("span" .
-   [1 0 0 0])))
+   [1 0 0 0])
+  ("inProgress" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("updatedUsedSolutionBubbles" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("updatedActiveSolutionBubbles" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])))
